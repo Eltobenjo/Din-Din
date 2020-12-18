@@ -1,10 +1,11 @@
+import Footer from "./components/Footer";
 
-import './App.css';
 
 function App() {
   return (
     <div>
-     <h1>Din Din Coming Soon!!</h1>
+      <h1>Din Din Coming Soon!!</h1>
+      <Footer />
     </div>
   );
 }
