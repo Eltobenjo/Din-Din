@@ -1,0 +1,9 @@
+.header{
+ height: 100px;
+ width: 100%;
+ background-color: #93e678;
+ color: black;
+ text-align: center;
+ position: relative;
+ padding-top: 1.5rem;
+}
